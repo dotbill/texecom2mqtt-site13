@@ -1,9 +1,9 @@
 {
-  "name": "texecom2mqtt",
+  "name": "texecom2mqtt-site13",
   "version": "1.2.3",
-  "slug": "texecom2mqtt",
-  "description": "Add-on to interface with Texecom Premier Elite alarm panels using MQTT",
-  "url": "https://github.com/dchesterton/texecom2mqtt-hassio",
+  "slug": "texecom2mqtt-site13",
+  "description": "Add-on to interface with Texecom Premier Elite alarm panels using MQTT (Site 13)",
+  "url": "https://github.com/dotbill/texecom2mqtt-site13",
   "startup": "application",
   "image": "dchesterton/texecom2mqtt",
   "boot": "auto",
